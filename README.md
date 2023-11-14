@@ -5,6 +5,8 @@
 </head>
 
 <body>
-<p>This will be the future space of my blog <3 </p>
+<p>This will be the future space of my blog. UwU </p>
+<p>You will find cute code and references for Udon, C++ and C# </p>
+  
 </body>
 </html>
