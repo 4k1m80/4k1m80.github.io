@@ -1,0 +1,889 @@
+<SysBook="Default">
+<SysPage="RAINBOW CALENDAR">
+<size=170%>
+
+<b><color=#e81416>10.11.25</color></b>
+<sprite index=0> RAINBO.7059 Social hangout day.
+
+<b><color=#ffa500>11.11.25</color></b>
+<sprite index=0> RAINBO.7059 Queer Questioning                                  <b><t:1761688800:t></b> Room: RL Campfire
+
+<b><color=#faeb36>12.11.25</color></b>
+<sprite index=0> RAINBO.7059 Practical Voice Training w/Izzy                    <b><t:1759352400:t></b> Room: Lecture Hall
+
+<b><color=#79c314>13.11.25</color></b>         
+<sprite index=0> RAINBO.7059  Movie Night - Captain America: The First Avenger  <b><t:1759435200:t></b> World: Popcorn Palace
+
+<b><color=#487de7>14.11.25</color></b>
+<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie                 <b><t:1761942600:t></b> Room: Lecture Hall
+
+<b><color=#4b369d>15.11.25</color></b> 
+<sprite index=0> RAINBO.7059 Gender Chaos Hour                                  <b><t:1763236800:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Transmasc & Chill                                  <b><t:1760817600:t></b> Various Worlds
+
+<b><color=#70369d>16.11.25</color></b>
+<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E31 Mister Chop                <b><t:1759672800:t></b> Room: Commons
+
+</size>
+</SysPage>
+<SysPage="SUPPORT">
+<font="LiberationSans SDF">
+<align="center"><size=380%><color=#fad42a>Here for You, Everywhere</color></size></align>
+
+<size=320%><color=#ffffff>Our Support page connects you with lifeline services that specialize in supporting trans individuals worldwide, offering assistance, guidance, and a listening ear when you need it most.</color></size>
+
+<size=325%>
+We’ve compiled a list of trusted resources, including hotlines, online chat support, and regional organizations dedicated to trans rights, mental health, and overall well-being.
+
+<line-height=330%><color=#fad42a>Worldwide Trans Lifeline Resources</color></line-height>
+
+<line-height=320%><size=310%><color=#fad42a>United States</color></size></line-height>
+• Trans Lifeline (24/7 Hotline): 1-877-565-8860  
+• National Suicide Prevention Lifeline: 1-800-273-8255  
+• The Trevor Project (LGBTQIA+ Support): 1-866-488-7386
+
+<line-height=320%><size=310%><color=#fad42a>Canada</color></size></line-height>
+• Trans Lifeline Canada (24/7 Hotline): 1-877-330-6366  
+• Crisis Services Canada: 1-833-456-4566
+
+<line-height=320%><size=310%><color=#fad42a>United Kingdom</color></size></line-height>
+• Gendered Intelligence (Support & Community Resources): +44 20 3195 9385  
+• Samaritans (Mental Health & Crisis Helpline): 116 123
+
+<line-height=320%><size=310%><color=#fad42a>Australia</color></size></line-height>
+• QLife (LGBTQIA+ Helpline): 1800 184 527  
+• Lifeline Australia (24/7 Crisis Support): 13 11 14
+
+<line-height=320%><size=310%><color=#fad42a>International</color></size></line-height>
+• ILGA World (International LGBTQIA+ Support): www.ilga.org
+• Transgender Europe (TGEU) Resources: www.tgeu.org
+
+<line-height=320%><size=310%><color=#fad42a>Additional Global Resources</color></size></line-height>
+• Transgender Equality - https://www.hrc.org/resources/transgender-equality (USA-based but global resources)  
+• Transgender Support Network - https://www.transgender-support.org (Global Network)
+
+These resources are listed by region to ensure you have the most relevant, accessible help. If you're unsure of where to turn, or if you need more support options, don't hesitate to reach out to us. We are here to help guide you to the right place.
+
+</size>
+
+<align="center"><size=360%><color=#ffffff>Reach out when you need support. You matter. </color></size>
+<size=900%><sprite index=0></size></align>
+</font>
+</SysPage>
+<SysPage="CONTACT">
+<font="LiberationSans SDF">
+<align="center"><size=380%><color=#fad42a>Get in Touch</color></size></align>
+
+<size=320%><color=#ffffff>We’re here to listen, support, and connect. Whether you have a question, need help, or want to get involved, here’s how you can reach out to us.</color></size>
+
+<line-height=330%><size=340%><color=#fad42a>Ways to Contact Us</color></size></line-height>
+
+<size=325%>
+• <b>Discord:</b> Join our Rainbow Library Discord - https://discord.gg/rainbowlibrary to chat with our moderators and community members, ask questions, share resources, or find support.
+
+• <b>In-World:</b> You can also find us in VRChat! Look for our volunteers in the Rainbow Library world — approach us directly.
+
+
+<line-height=330%><size=340%><color=#fad42a>Additional Information</color></size></line-height>
+
+<size=325%>
+• Events - If you want to host an event, workshop, or activity in the Rainbow Library, let us know through our Discord. We love collaborating with the community!
+
+• Volunteer - Interested in helping us grow and maintain the space? Volunteers are always welcome! Reach out on Discord or via email to learn more about how you can contribute.
+
+• Resource Submissions - We are always looking to expand our library! If you have media, books, or resources you’d like to contribute, you can submit them through our Discord or email.
+
+We welcome all inquiries and look forward to hearing from you. No matter how big or small, your message matters to us, and we are here to help.
+</size>
+
+<align="center"><size=400%><color=#ffffff>We're just a message away. </color></size>
+<size=900%><sprite index=0></size></align>
+</font>
+</SysPage>
+
+<SysPage="COMMUNITY NOTES">
+<align="center">Coming Soon</align>
+</SysPage>
+<SysPage="ATTENTION">
+<align="center">Coming Soon</align>
+</SysPage>
+<SysPage="CODE OF CONDUCT">
+<font="LiberationSans SDF">
+<align="center"><size=180%><color=#fad42a>Respect. Safety. Solidarity.</color></size></align>
+
+<size=120%><color=#ffffff>To keep the Rainbow Library a safe and welcoming space for everyone, we ask all visitors to follow our community guidelines with care and respect.</color></size>
+
+<size=125%>
+This is a PG-13 environment built on mutual respect, inclusion, and kindness. Discrimination, harassment, or hateful behavior of any kind will not be tolerated.
+
+Please be mindful of personal space, pronouns, and boundaries. If someone asks you to stop, do so. Consent, both verbal and social, is essential.
+
+No NSFW content, slurs, or trolling. This includes avatars, language, and gestures.
+
+Support your fellow visitors—especially those who may be new, overwhelmed, or navigating tough topics. We're here to uplift one another.
+
+Moderators are present to help, not to police. If you feel unsafe or notice something concerning, please let us know. You can reach out in-world or through our Discord.
+</size>
+
+<align="center"><size=160%><color=#ffffff>We take care of each other. Thank you for being part of that. </color></size>
+<size=800%><sprite index=0></size></align>
+</font>
+</SysPage>
+<SysPage="SIGNING ROOM">
+<font="LiberationSans SDF">
+<align="center"><size=180%><color=#fad42a>Welcome to the Signing Room</color></size></align>
+
+<size=120%><color=#ffffff>The Signing Room is a quiet, peaceful space where you can only communicate through sign language, written messages, or other non-verbal means. 
+Here, we prioritize silence and stillness to create a wonderful learning enviroment.</color></size>
+
+<line-height=130%><size=110%><color=#fad42a>A Space for Quiet</color></size></line-height>
+
+<size=125%>
+Unlike other areas of the Rainbow Library, the Signing Room is designed for those who communicate without sound. 
+This means you will not be able to talk or hear audio here. 
+Instead, you can use text-based communication, sign language, or even gestures to interact with others.
+
+We respect the need for silence and stillness and this room offers a sanctuary for those who may need a break from auditory stimuli or those who prefer a quieter, more focused environment. 
+It is an accessible space for those who are deaf or hard of hearing, fostering non verbal connection through a shared space.
+
+
+The Signing Room is a space of respect, tranquility, and non-verbal connection. 
+It is a perfect place to reflect, have a thoughtful conversation through gestures, or simply enjoy a quiet moment.
+
+</size>
+
+<align="center"><size=160%><color=#ffffff>Find peace, find connection, find quiet here. </color></size>
+<size=800%><sprite index=0></size></align>
+</font>
+</SysPage>
+
+<SysPage="DISCUSSION ROOM">
+<font="LiberationSans SDF">
+<align="center"><size=280%><color=#fad42a>Discussion Room</color></size></align>
+
+<size=180%><color=#ffffff>The discussion room is a space where people can engage in respective and constructive conversations. Here, we engage in discussions on various topics, through open dialogue and critical thinking.</color></size>
+
+<line-height=190%><size=200%><color=#fad42a>Respectful Discourse</color></size></line-height>
+
+<size=180%>
+We welcome diverse opinions and encourage those who wish to engage in discussions to listen, reflect and respond thoughtfully. The discussion room is about sharing perspectives and ideas in a respectful environment, where everyone’s voice matters.
+
+Join us for engaging discussions and learn from each other while honing your skills in dialogue and critical thinking.
+</size>
+
+<align="center"><size=250%><color=#ffffff>Engage, respect, and challenge ideas. </color></size>
+<size=850%><sprite index=0></size></align>
+</font>
+</SysPage>
+<SysPage="LECTURE HALL">
+<font="LiberationSans SDF">
+<align="center"><size=220%><color=#fad42a>Lecture Hall</color></size></align>
+
+<size=180%><color=#ffffff>The Lecture Hall is where we gather to learn, discuss, and share knowledge. From workshops to guest speakers, this space is dedicated to educational events and community discussions.</color></size>
+
+<line-height=130%><size=200%><color=#fad42a>Engage, Learn, Grow</color></size></line-height>
+
+<size=180%>
+Join us for regular lectures, workshops, and discussions that explore LGBTQIA+ topics, personal growth, and social issues. Our Lecture Hall is a space for thought-provoking conversations and shared learning.
+
+Whether you're here to listen, ask questions, or contribute, we invite you to be part of the dialogue and expand your understanding.
+</size>
+
+<align="center"><size=250%><color=#ffffff>Where learning happens, together. </color></size>
+<size=850%><sprite index=0></size></align>
+</font>
+</SysPage>
+<SysPage="PEER SUPPORT">
+<font="LiberationSans SDF">
+<align="center"><size=180%><color=#fad42a>You're Not Alone</color></size></align>
+
+<size=120%><color=#ffffff>Our Peer Support space exists to hold one another with care, compassion, and community understanding. Whether you're going through a hard time or simply need someone to talk to, there’s a place for you here.</color></size>
+
+<size=125%>
+We offer a gentle, PG-13 environment where you can speak openly, share your experiences, and receive encouragement from others who truly get it. All support is non-clinical, non-judgmental, and rooted in lived experience.
+
+Our Discord includes dedicated peer support channels, wellness check-ins, and mutual aid resources contributed by the community. Quiet corners in-world also offer space to recharge or reach out when words are hard.
+
+While we are not a crisis service, we care deeply about your well-being—and can help connect you to affirming external resources when needed.
+</size>
+
+<align="center"><size=160%><color=#ffffff>Community care is real care. We're here for each other. </color></size>
+<size=800%><sprite index=0></size></align>
+</font>
+</SysPage>
+
+<SysPage="SCIENCE NEWS">
+<align="center">Coming Soon</align>
+</SysPage>
+<SysPage="OUR MISSION">
+<font="LiberationSans SDF">
+<align="center"><size=180%><color=#fad42a>Empower, Educate, Embrace</color></size></align>
+
+
+<size=120%><color=#ffffff>The Rainbow Library exists to uplift voices, share knowledge and create a welcoming space where every person can thrive in authenticity and connection.</color></size>
+
+<line-height=120%><size=130%><color=#fad42a>Empower</color></size></line-height>
+<size=125%>
+We celebrate diverse identities, uplift marginalized voices, and foster pride through authentic representation.
+
+</size>
+
+<line-height=120%><size=130%><color=#fad42a>Educate</color></size></line-height>
+<size=125%>
+We provide resources, events, and learning spaces that explore LGBTQIA+ history, culture and current issues while inspiring curiosity and shared growth.
+</size>
+
+<line-height=120%><size=130%><color=#fad42a>Embrace</color></size></line-height>
+<size=125%>
+We create inclusive, supportive spaces that prioritize belonging, mental wellness and meaningful connection.
+</size>
+
+
+<align="center"><size=160%><color=#ffffff>Together, we shape a brighter, bolder  and more compassionate future </color></size>
+<size=800%><sprite index=0></size></align>
+</font>
+</SysPage>
+<SysPage="LORE">
+<font="LiberationSans SDF">
+<align="center"><size=260%><color=#fad42a>Our Story</color></size></align>
+
+<size=200%><color=#ffffff>The Rainbow Library began as a dream: a space where knowledge, creativity, and community intersect. What started as a simple idea has grown into a thriving hub, full of stories, learning, and connection.</color></size>
+
+<line-height=130%><size=180%><color=#fad42a>Our Origins</color></size></line-height>
+
+<size=150%>
+The Rainbow Library was created to offer a welcoming space for those seeking information, support, and community—particularly for LGBTQIA+ individuals. In the early days, it was a small gathering of like-minded individuals within VRChat, all coming together to share stories, books, and resources. What started as a humble collection of digital bookshelves quickly evolved into a vibrant, interactive community space.
+
+As the space grew, so did its mission: to create a library that wasn’t just about books, but about fostering connections, education, and visibility for marginalized voices.
+
+<line-height=130%><size=180%><color=#fad42a>Our Vision</color></size></line-height>
+
+<size=150%>
+The Rainbow Library isn’t just a virtual space—it’s a reflection of the world we want to build. A world where everyone, regardless of identity or background, has access to resources, support, and the freedom to express themselves authentically. Through our curated collections, workshops, events, and peer support, we strive to empower individuals and uplift our community.
+
+From its very inception, the library has been a place where every identity is celebrated, and where the stories of the LGBTQIA+ community are preserved, shared, and honored.
+
+<line-height=130%><size=180%><color=#fad42a>The Future of the Library</color></size></line-height>
+
+<size=150%>
+The Rainbow Library is always evolving. Our vision is constantly expanding, with new resources, events, and features that reflect the ever-growing needs and desires of our community. From our book collections to our art galleries, peer support, and educational initiatives, we are continuously working to make the library a place where everyone feels heard, seen, and empowered.
+
+It’s more than a space—it’s a movement. And the best part? You’re part of it. Together, we continue to write our story, shaping the future of the Rainbow Library every day.
+</size>
+
+<align="center"><size=220%><color=#ffffff>Join us in building the next chapter. </color></size>
+<size=800%><sprite index=0></size></align>
+</font>
+</SysPage>
+
+<SysPage="9">
+
+
+
+
+
+
+
+
+
+
+
+
+<size=800%><sprite index=13></size></align>
+</SysPage>
+<SysPage="EVENTS">
+<align="center">Upcoming community events and activities</align>
+</SysPage>
+<SysPage="RESOURCES">
+<font="LiberationSans SDF">
+<align="center"><size=180%><color=#fad42a>Support, Knowledge, Visibility</color></size></align>
+
+<size=120%><color=#ffffff>The Rainbow Library is committed to uplifting transgender voices through access to affirming resources, shared experiences, and safe, informed support.</color></size>
+
+<line-height=120%><size=130%><color=#fad42a>Support</color></size></line-height>
+<size=125%>
+We offer guides on gender affirmation, mental health resources, and links to trans-led organizations and mutual aid.
+
+</size>
+
+<line-height=120%><size=130%><color=#fad42a>Knowledge</color></size></line-height>
+<size=125%>
+Our shelves include community-recommended books, zines, and media by and about trans lives, history, and futures.
+
+</size>
+
+<line-height=120%><size=130%><color=#fad42a>Visibility</color></size></line-height>
+<size=125%>
+We highlight trans creators, celebrate diverse journeys, and foster connection through storytelling and shared understanding.
+
+</size>
+
+<align="center"><size=160%><color=#ffffff>You are seen, supported, and never alone on your path</color></size>
+<size=800%><sprite index=0></size></align>
+</font>
+</SysPage>
+<SysPage="ART GALLERY">
+<font="LiberationSans SDF">
+<align="center"><size=180%><color=#fad42a>Creativity, Expression, Community</color></size></align>
+
+<size=120%><color=#ffffff>The Rainbow Library Art Gallery is a space to celebrate creativity and showcase the diverse talents of our vibrant community.</color></size>
+
+<line-height=120%><size=130%><color=#fad42a>Creativity</color></size></line-height>
+<size=125%>
+We feature digital and traditional artwork that reflects identity, imagination, and personal storytelling.
+
+</size>
+
+<line-height=120%><size=130%><color=#fad42a>Expression</color></size></line-height>
+<size=125%>
+Our gallery uplifts LGBTQIA+ perspectives and honors the many ways art can speak, heal, and inspire.
+
+</size>
+
+<line-height=120%><size=130%><color=#fad42a>Community</color></size></line-height>
+<size=125%>
+Want to be featured? Submit your work through our Discord and be part of our evolving, community-curated exhibit.
+
+</size>
+
+<align="center"><size=160%><color=#ffffff>Every piece tells a story—yours deserves to be seen</color></size>
+<size=800%><sprite index=0></size></align>
+</font>
+</SysPage>
+<SysPage="BOOK CLUB">
+<font="LiberationSans SDF">
+<align="center"><size=180%><color=#fad42a>Read, Discuss, Connect</color></size></align>
+
+<size=120%><color=#ffffff>The Rainbow Library Book Club is a space where we come together to explore diverse narratives, dive into thought-provoking discussions, and deepen our understanding of the world through literature.</color></size>
+
+<size=125%>
+Each month, we select a book with LGBTQIA+ themes, written by authors from our community or beyond. These books are chosen for their ability to inspire, challenge, and reflect our shared experiences.
+
+Whether you’re an avid reader or just starting out, the Book Club is for everyone. Join us for our monthly discussions in-world or on Discord, where we explore the themes, characters, and ideas that resonate with us.
+
+Have a book you’d love to see featured? You can suggest titles for future reads through our Discord channels—your input helps shape our literary journey.
+
+Reading isn’t just about the books—it’s about the conversations that grow from them. Let’s read, talk, and grow together.
+</size>
+
+<align="center"><size=160%><color=#ffffff>Turn the page, and join the conversation. </color></size>
+<size=800%><sprite index=0></size></align>
+</font>
+</SysPage>
+<SysPage="GAY HISTORY">
+<align="center">A dive into important milestones in LGBTQ+ history</align>
+</SysPage>
+<SysPage="PRIDE STORIES">
+<font="LiberationSans SDF">
+<align="center"><size=180%><color=#fad42a>Share Your Journey</color></size></align>
+
+<size=120%><color=#ffffff>Pride Stories is a space for our community to share their personal experiences, struggles, victories, and everything in between.</color></size>
+
+<size=125%>
+We believe in the power of storytelling—how sharing our stories creates connection, fosters understanding, and inspires others. Whether your story is one of triumph or challenge, it is part of the fabric that makes our community whole.
+
+If you’re interested in sharing your story, you can submit it through our Discord. Whether in text, audio, or video format, your voice matters. The stories shared here are treated with respect, care, and confidentiality.
+
+Through Pride Stories, we honor the diverse paths each person walks and celebrate the collective strength that unites us all. No matter where you are in your journey, your story is valid, and it’s worth telling.
+</size>
+
+<align="center"><size=160%><color=#ffffff>Every story is a beacon of pride, strength, and truth. </color></size>
+<size=800%><sprite index=0></size></align>
+</font>
+</SysPage>
+<SysPage="SUPPORT NETWORK">
+<font="LiberationSans SDF">
+<align="center"><size=180%><color=#fad42a>You're Connected to Care</color></size></align>
+
+<size=120%><color=#ffffff>The Support Network exists to help you find the people, resources, and organizations that can walk alongside you—no matter what you’re going through.</color></size>
+
+<size=125%>
+Our community is strong, but no one should have to navigate life alone. Within the Rainbow Library and our Discord, you'll find connections to peer support, mutual aid, and affirming spaces that listen without judgment.
+
+We also maintain a curated list of trusted hotlines, trans and queer-friendly providers, crisis resources, and identity-affirming organizations from around the world. These are available on our support boards and regularly updated with input from the community.
+
+If you're ever in need, please reach out. There’s strength in asking, and solidarity in showing up for each other.
+
+You’re not just welcome here—you’re supported here.
+</size>
+
+<align="center"><size=160%><color=#ffffff>Let’s build a network where no one slips through the cracks. </color></size>
+<size=800%><sprite index=0></size></align>
+</font>
+</SysPage>
+
+<SysPage="FAQ">
+<align="center">Frequently Asked Questions about the Rainbow Library</align>
+</SysPage>
+<SysPage="CONTACT US">
+<align="center">Get in touch for support or suggestions</align>
+</SysPage>
+<SysPage="GENDER IDENTITY">
+<align="center">Explore different gender identities and expressions.</align>
+</SysPage>
+<SysPage="IDENTITY AND GENDER">
+<font="LiberationSans SDF">
+<align="center"><size=380%><color=#fad42a>Understanding Identity and Gender</color></size></align>
+
+<size=240%><color=#ffffff>At the Rainbow Library, we celebrate the rich diversity of identities and gender expressions that make our community whole. This space is designed to honor the fluidity, complexity, and beauty of how each individual defines and experiences their identity.</color></size>
+
+<line-height=130%><size=280%><color=#fad42a>Identity is Personal, Gender is Fluid</color></size></line-height>
+
+<size=240%>
+We recognize that gender is not a one-size-fits-all concept. It is an expansive spectrum, and everyone’s experience of gender is unique. Whether you identify as cisgender, transgender, non-binary, genderfluid, agender, or any other gender identity, your experience is valid and valued here.
+
+The Rainbow Library is a space where individuals can explore, express, and define their own gender journey without judgment or restriction. It is a place where you are encouraged to understand, affirm, and celebrate your own identity while respecting the identities of others.
+
+<line-height=130%><size=280%><color=#fad42a>Our Commitment to Inclusivity</color></size></line-height>
+
+<size=240%>
+We commit to creating a welcoming environment that respects and upholds the rights of all gender identities. We believe in the importance of using inclusive language, asking for and respecting pronouns, and continuously learning about gender diversity. Every person here has the right to define themselves on their own terms and to live authentically.
+
+Gender expression—how we present ourselves to the world—varies widely and is a form of personal art. Whether through clothing, pronouns, name changes, or other forms of self-expression, we encourage everyone to express themselves in ways that are meaningful and empowering.
+
+<line-height=130%><size=280%><color=#fad42a>Educational Resources on Gender</color></size></line-height>
+
+<size=240%>
+Throughout our library, you’ll find curated resources that explore various aspects of gender identity, gender expression, and the intersectionality of gender with other aspects of identity such as race, culture, and sexuality. We host workshops, discussions, and learning spaces designed to foster deeper understanding and allyship.
+
+We invite everyone, regardless of where they are in their gender journey, to use the resources available to learn, reflect, and grow. Whether you’re just beginning to explore your own gender identity or are looking to better understand the experiences of others, the Rainbow Library is here to support you.
+
+</size>
+
+<align="center"><size=380%><color=#ffffff>Every gender is valid. Every expression is celebrated. </color></size>
+<size=2000%><sprite index=0></size></align>
+</font>
+</SysPage>
+<SysPage="GENDER SPECTRUM">
+<align="center">Understand that gender exists on a spectrum, not a binary.</align>
+</SysPage>
+
+<SysPage="TRANSGENDER BASICS">
+<align="center">Learn the basics of being transgender, transitioning, and gender identity.</align>
+</SysPage>
+
+<SysPage="NON BINARY IDENTITY">
+<align="center">Learn about the non-binary gender identity and its significance.</align>
+</SysPage>
+
+<SysPage="PRONOUNS MATTER">
+<align="center">Why respecting and using correct pronouns is important.</align>
+</SysPage>
+
+<SysPage="TRANSGENDER HISTORY">
+<align="center">A brief look at transgender history and significant figures.</align>
+</SysPage>
+
+<SysPage="SUPPORTING TRANSFOLK">
+<align="center">How to support transgender individuals in your community.</align>
+</SysPage>
+
+<SysPage="GENDER ROLES">
+<align="center">Understanding societal gender roles and their impact on gender expression.</align>
+</SysPage>
+
+<SysPage="GENDER NEUTRAL LANGUAGE">
+<align="center">Explore the importance of using gender-neutral language.</align>
+
+</SysPage>
+
+<SysPage="DEFINING GENDERFLUIDITY">
+<align="center">What it means to be genderfluid, and how it differs from other identities.</align>
+</SysPage>
+<SysPage="TRANSGENDER RIGHTS">
+<align="center">A guide to transgender rights and how to advocate for equality.</align>
+</SysPage>
+<SysPage="GENDER INCLUSIVITY">
+<align="center">Tips for creating gender-inclusive environments, spaces, and language.</align>
+</SysPage>
+<SysPage="DEALING WITH GENDER Dysphoria">
+<align="center">Understanding gender dysphoria and how to cope with it.</align>
+</SysPage>
+<SysPage="FAMOUS TRANSGENDER FIGURES">
+<align="center">Profiles of prominent transgender people and their achievements.</align>
+</SysPage>
+<SysPage="GENDER EXPANSIVE LANGUAGE">
+<align="center">Expanding the language we use to reflect gender diversity.</align>
+</SysPage>
+<SysPage="AFTER COMING OUT">
+<align="center">What to expect after coming out and navigating the world as a transgender person.</align>
+</SysPage>
+<SysPage="TRANSMASC & TRANSFEMININE">
+<align="center">Exploring the experiences of transmasc and transfeminine individuals.</align>
+</SysPage>
+<SysPage="GENDER IN THE WORKPLACE">
+<align="center">How to create a more inclusive workplace for gender-diverse individuals.</align>
+</SysPage>
+<SysPage="SUPPORTING TRANS YOUTH">
+<align="center">Tips for supporting gender-diverse and transgender youth.</align>
+</SysPage>
+<SysPage="DISABILITY & GENDER">
+<align="center">How disability intersects with gender identity and expression.</align>
+</SysPage>
+
+
+<SysPage="CREDITS">
+<font="LiberationSans SDF">
+<size=95%><color=#ffffff>The Rainbow Library exists thanks to the care, time, and dedication of its community. This space is a collective effort, built with love and maintained by volunteers across many areas.</color></size>
+</font>
+
+<line-height=20%><size=100%><color=#fad42a>Volunteers</color></size></line-height>
+<size=90%>
+
+</size>
+
+<line-height=10%><size=90%><color=#fad42a>Contributions</color></size></line-height>
+Niko - for the amazing globe and space shader
+Sameno Works - VRC Siphon Coffee
+
+
+<font="LiberationSans SDF">
+<align="center"><size=80%><color=#ffffff>
+This space would not exist
+without the people who shape it.
+
+Thank you all!</color></size></align></font>
+
+</SysPage>
+<SysPage="INFORMATION">
+<font="LiberationSans SDF">
+<align="center"><size=200%><color=#fad42a>Welcome to the Rainbow Library</color></size></align>
+
+<size=120%><color=#ffffff>The Rainbow Library is a community driven space focused on inclusivity, creativity and connection within VRChat and beyond.</color></size>
+
+<line-height=120%><size=110%><color=#fad42a>What We Offer</color></size></line-height>
+<size=105%>
+• A calm and welcoming environment designed for reading, learning, vibing and meaningful social connections
+• Community curated books and media with LGBTQIA+ themes
+• Presentation and discussion areas for events and lectures
+• An inclusive and performant design that works for PC and Quest users  
+</size>
+
+<line-height=120%><size=110%><color=#fad42a>Community & Support</color></size></line-height>
+<size=105%>
+• A supportive, PG-13 space where all identities are respected  
+• Accessibility-minded layout and quiet corners for overstimulated users  
+• Resources and mutual aid boards contributed by the community  
+• Moderators who care about your comfort and safety  
+</size>
+
+<line-height=120%><size=110%><color=#fad42a>Ways to Get Involved</color></size></line-height>
+<size=105%>
+• Join our Discord to chat, share resources, or host events  
+• Submit your own media to the library’s shelves  
+• Volunteer to help with world updates or moderation  
+</size>
+
+<align="center"><size=130%><color=#ffffff>You're always welcome here - just as you are </color></size></align>
+<align="center"><size=800%><sprite index=0></size></align>
+</font>
+</SysPage>
+<SysPage="RAINBOW LIBRARY">
+<font="LiberationSans SDF">
+<align="center"><b><color=#fad42a><size=200%>Welcome!</size></color></b></align>
+
+
+We are a LGBTQ+ space where everyone is loved! 
+
+The Rainbow Library is a cozy, welcoming place offering 
+peer-support, education, information and extra care for 
+everyone under the LGBTQ+ umbrella. 
+Whether you need resources, a friendly chat or just 
+a safe space to be yourself. 
+
+We are here for you!
+<align="center"><size=1200%><sprite index=0></size>
+<align="center"><b>Empower · Educate · Embrace</align>
+
+
+
+<b><color=#fad42a><size=200%>Social Media</size></color></b>
+<b></align>
+<pos=1><size=250%><sprite index=6></size> vrc.group/RAINBO.7059
+<pos=1><size=250%><sprite index=2></size> discord.gg/rainbowlibrary
+<pos=1><size=250%><sprite index=14></size> twitch.tv/rainbowlibraryvr
+<pos=1><size=250%><sprite index=10></size> youtube.com/@rainbowlibraryvr
+<pos=1><size=250%><sprite index=3></size> patreon.com/c/RainbowLibraryVR</pos>
+</b>
+</font>
+</SysPage>
+<SysPage="RULES">
+<font="LiberationSans SDF"><color=#fad42a><size=190%>1. Respect Everyone</size></color>
+Be kind; no harassment, discrimination, or hate speech
+
+<color=#fad42a><size=190%>2. Keep It PG-13</size></color>
+No explicit content, suggestive behavior, or inappropriate avatars
+
+<color=#fad42a><size=190%>3. Use Appropriate Avatars</size></color>
+No explicit avatars. No violence. No global screen effect shaders
+
+<color=#fad42a><size=190%>4. Respect Boundaries</size></color>
+Personal space and consent matter in all interactions
+
+<color=#fad42a><size=190%>5. Follow VRChat Guidelines</size></color>
+Obey all platform rules and terms
+
+<color=#fad42a><size=190%>6. Protect the Virtual Space</size></color>
+No griefing, spamming, exploiting, or disrupting the environment
+
+<color=#fad42a><size=190%>7. Engage Positively</size></color>
+Be inclusive, supportive, and share the space respectfully
+
+<color=#fad42a><size=190%>8. Prioritize Safety</size></color>
+Be mindful of your own security and well-being and that of others
+
+<color=#fad42a><size=190%>9. No Recording Without Consent</size></color>
+Do not record or stream others without permission
+
+<color=#fad42a><size=190%>10. Ask for Help</size></color>
+Report rule violations to moderators
+
+
+
+
+<size=140%><align="center"><size=140%><sprite index=9></size> Disruptive users may be removed</align></size>
+</font>
+</SysPage>
+
+<SysPage="UPCOMING">
+<size=160%>May</size>
+<color=#0000FF>Pride Month Kickoff</color>
+<color=#4B0082>International Day Against Homophobia, Transphobia, and Biphobia</color>
+
+<size=160%>June</size>
+<color=#4B0082>Pride Month</color>
+
+<size=160%>July</size>
+<color=#9400D3>Pride in the Park</color>
+<color=#FF0000>Transgender Equality Day</color>
+
+<size=160%>August</size>
+<color=#FF0000>Transgender Awareness Week</color>
+<color=#FF7F00>Queer Arts Festival</color>
+
+<size=160%>September</size>
+<color=#FF7F00>Pride Picnic</color>
+<color=#FFFF00>LGBTQ+ History Month</color>
+
+<size=160%>October</size>
+<color=#FFFF00>National Coming Out Day</color>
+
+<size=160%>November</size>
+<color=#00FF00>Transgender Day of Remembrance</color>
+<color=#0000FF>Queer Thanksgiving Gathering</color>
+
+<size=160%>December</size>
+<color=#4B0082>LGBTQ+ Holiday Party</color>
+</SysPage>
+
+<SysPage="POETRY">
+
+
+
+
+
+
+
+<font="LiberationSans SDF">
+<align="center">
+<size=120%>
+The Rainbow
+
+A rainbow arches in the sky,
+A fleeting moment, passing by.
+With colors bright, it starts to gleam,
+A painters stroke, a distant dream.
+
+Red whispers of a fiery kiss,
+Orange glows like sunlit bliss.
+Yellow shines, so warm, so bright,
+Like golden rays at morning's light.
+
+Green, the earth in quiet sway,
+Where trees and grass in harmony lay.
+Blue, the ocean, deep and wide,
+Reflecting skies with endless tide.
+</size>
+<align="center"><size=800%><sprite index=0></size></align>
+</align>
+</font>
+</SysPage>
+</SysBook>
+<SysPage="TRANS RIGHTS">
+<font="LiberationSans SDF">
+<align="center"><size=240%><color=#fad42a>Trans Rights Are Human Rights</color></size></align>
+
+<size=190%><color=#ffffff>Trans people deserve safety, respect, access, and autonomy. At the Rainbow Library, we affirm trans rights as essential and non-negotiable.</color></size>
+
+<size=190%>
+Trans rights include the right to live openly, access healthcare, express gender identity, use chosen names and pronouns, and be free from discrimination and violence. These rights are under attack in many parts of the world—and standing in solidarity matters.
+
+Use this space to learn, share resources, and uplift trans voices. Advocacy starts with awareness, and action starts with community.
+</size>
+
+<align="center"><size=200%><color=#ffffff>There is no pride without trans rights. </color></size>
+<size=800%><sprite index=0></size></align>
+</font>
+</SysPage>
+<SysPage="HUMAN RIGHTS">
+<font="LiberationSans SDF">
+<align="center"><size=240%><color=#fad42a>Equality, Safety, Freedom</color></size></align>
+
+<size=190%><color=#ffffff>Human rights belong to everyone—regardless of gender, sexuality, race, ability, or origin. These rights are not earned; they are inherent.</color></size>
+
+<size=190%>
+At the Rainbow Library, we center human rights in all we do. This means fighting against systems of oppression, supporting marginalized communities, and creating accessible, inclusive spaces for all.
+
+From freedom of expression to bodily autonomy, housing, education, and healthcare—these are not privileges. They are rights. And we defend them together.
+</size>
+
+<align="center"><size=200%><color=#ffffff>When we protect each other’s rights, we protect our shared humanity. </color></size>
+<size=800%><sprite index=0></size></align>
+</font>
+</SysPage>
+<SysPage="TRANS POLITICS">
+<font="LiberationSans SDF">
+<align="center"><size=240%><color=#fad42a>Our Lives Are Political</color></size></align>
+
+<size=190%><color=#ffffff>Trans existence is not a debate—it’s a reality. The fight for trans liberation is deeply political, rooted in resistance and resilience.</color></size>
+
+<size=190%>
+Trans politics intersects with healthcare, law, education, housing, and public safety. From anti-trans legislation to policy victories, staying informed helps us resist injustice and build a better world.
+
+This space is here to help you understand current issues, advocate effectively, and connect with grassroots movements pushing for real change. Visibility matters—but action matters more.
+</size>
+
+<align="center"><size=200%><color=#ffffff>Trans liberation is a political priority. Stay aware, stay active. </color></size>
+<size=800%><sprite index=0></size></align>
+</font>
+</SysPage>
+<SysPage="DIGNITY">
+<font="LiberationSans SDF">
+<align="center"><size=240%><color=#fad42a>You Deserve Dignity</color></size></align>
+
+<size=190%><color=#ffffff>Dignity means being treated with respect, compassion, and humanity. For trans and queer people, this is not always guaranteed—but here, it is fundamental.</color></size>
+
+<size=190%>
+No matter your background, your transition, your identity, or your story—your life has value. We believe in your right to be seen, affirmed, and uplifted without condition.
+
+Dignity lives in how we treat ourselves and each other. Let this space remind you: you are not alone. You are worthy. And you belong.
+</size>
+
+<align="center"><size=200%><color=#ffffff>Dignity isn’t something you earn—it’s something you already have. </color></size>
+<size=800%><sprite index=0></size></align>
+</font>
+</SysPage>
+<SysBook="Hello World Book">
+	<SysPage="Page 1">
+		Hello World. This is the first line of a book!
+	</SysPage>
+	<SysPage="Page 2">
+		This is the second page of the book!
+	</SysPage>
+	<SysPage="Page 3">
+		This is the third!
+	</SysPage>
+</SysBook>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
