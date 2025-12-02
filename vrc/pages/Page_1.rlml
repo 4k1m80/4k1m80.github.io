@@ -2,25 +2,25 @@
 <SysPage="RAINBOW CALENDAR">
 <size=170%>
 
-<b><color=#e81416>10.11.25</color></b>
+<b><color=#e81416>1.12.25</color></b>
 <sprite index=12> PALLAD.3029 Social hangout day.
 
-<b><color=#ffa500>11.11.25</color></b>
+<b><color=#ffa500>2.12.25</color></b>
 <sprite index=12> PALLAD.3029 Social hangout day.
 
-<b><color=#faeb36>12.11.25</color></b>
+<b><color=#faeb36>3.12.25</color></b>
 <sprite index=12> PALLAD.3029 Social hangout day.
 
-<b><color=#79c314>13.11.25</color></b>         
+<b><color=#79c314>4.12.25</color></b>         
+<sprite index=12> PALLAD.3029 Lilly's Hangout - Neurodivergent, Autism, ADHD friendly
+
+<b><color=#487de7>5.12.25</color></b>
+<sprite index=12> PALLAD.3029 Prism Flux - live music event
+
+<b><color=#4b369d>6.12.25</color></b> 
 <sprite index=12> PALLAD.3029 Social hangout day.
 
-<b><color=#487de7>14.11.25</color></b>
-<sprite index=12> PALLAD.3029 Social hangout day.
-
-<b><color=#4b369d>15.11.25</color></b> 
-<sprite index=12> PALLAD.3029 Social hangout day.
-
-<b><color=#70369d>16.11.25</color></b>
+<b><color=#70369d>7.12.25</color></b>
 <sprite index=12> PALLAD.3029 Social hangout day.
 
 </size>
@@ -798,6 +798,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
