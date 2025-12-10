@@ -78,7 +78,7 @@ These resources are listed by region to ensure you have the most relevant, acces
 <line-height=330%><size=340%><color=#fad42a>Ways to Contact Us</color></size></line-height>
 
 <size=325%>
-• <b>Discord:</b> Join our Palladium Palace Discord - https://discord.gg/eEshAPpG to chat with our moderators and community members, ask questions, share resources, or find support.
+• <b>Discord:</b> Join our Palladium Palace Discord - https://discord.gg/palladium to chat with our moderators and community members, ask questions, share resources, or find support.
 
 • <b>In-World:</b> You can also find us in VRChat! Look for our volunteers in the Palladium Palace world — approach us directly.
 
@@ -614,7 +614,7 @@ We are here for you!
 <b><color=#fad42a><size=200%>Social Media</size></color></b>
 <b></align>
 <pos=1><size=250%><sprite index=6></size> vrc.group/PALLAD.3029
-<pos=1><size=250%><sprite index=2></size> discord.gg/GK4zyGq9
+<pos=1><size=250%><sprite index=2></size> discord.gg/palladium
 <pos=1><size=250%><sprite index=14></size> 
 <pos=1><size=250%><sprite index=10></size> 
 <pos=1><size=250%><sprite index=3></size> </pos>
@@ -789,6 +789,7 @@ No matter your background, your transition, your identity, or your story, your l
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
