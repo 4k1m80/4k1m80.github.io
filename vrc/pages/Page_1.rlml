@@ -6,22 +6,23 @@
 <sprite index=0> RAINBO.3029 Social hangout day.
 
 <b><color=#ffa500><t:1780956000:D></color></b>
-<sprite index=0> RAINBO.3029 Social hangout day.
+<sprite index=0> RAINBO.3029 Poetry Slam                                        <b><t:1780956000:t></b> Room: Commons
 
 <b><color=#faeb36><t:1781042400:D></color></b>
-<sprite index=0> RAINBO.3029 Social hangout day.
+<sprite index=0> RAINBO.3029 Cassy's witching hour                              <b><t:1781118000:t></b> Room: Commons
 
 <b><color=#79c314><t:1781128800:D></color></b>
 <sprite index=0> RAINBO.3029 Social hangout day.
 
 <b><color=#487de7><t:1781215200:D></color></b>
-<sprite index=0> RAINBO.3029 Social hangout day.
+<sprite index=0> RAINBO.3029 Lilly's Hangout - Neurodivergency Meetup           <b><t:1781215200:t></b> Room: Commons
+<sprite index=0> RAINBO.3029 Voice Training with Prof․ Mirelle                  <b><t:1781287200:t></b> Room: Lecture Hall
 
 <b><color=#4b369d><t:1781301600:D></color></b>
-<sprite index=0> RAINBO.3029 Social hangout day.
+<sprite index=0> RAINBO.3029 Voice Training with Prof․ Aurelia Vox              <b><t:1781312400:t></b> Room: Lecture Hall
 
 <b><color=#70369d><t:1781388000:D></color></b>
-<sprite index=0> RAINBO.3029 Social hangout day.
+<sprite index=0> RAINBO.3029 Rainbow Karaoke                                    <b><t:1781467200:t></b> Room: Commons
 
 </size>
 </SysPage>
