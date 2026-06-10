@@ -3,12 +3,17 @@
 <size=170%>
 
 <sprite index=0> <b><color=#e81416><t:1780956000:D></color></b> Poetry Slam                                        <b><t:1780956000:t></b> Room: Commons
-<sprite index=0> <b><color=#ffa500><t:1781118000:D></color></b> Cassy's witching hour                              <b><t:1781118000:t></b> Room: Commons
-<sprite index=0> <b><color=#faeb36><t:1781215200:D></color></b> Lilly's Hangout - Neurodivergency Meetup           <b><t:1781215200:t></b> Room: Commons
-<sprite index=0> <b><color=#79c314><t:1781287200:D></color></b> Voice Training with Prof․ Mirelle                  <b><t:1781287200:t></b> Room: Lecture Hall
-<sprite index=0> <b><color=#487de7><t:1781312400:D></color></b> Voice Training with Prof․ Aurelia Vox              <b><t:1781312400:t></b> Room: Lecture Hall
-<sprite index=0> <b><color=#4b369d><t:1781384400:D></color></b> Underground Pulse                                  <b><t:1781384400:t></b> World: The Complex
-<sprite index=0> <b><color=#70369d><t:1781467200:D></color></b> Rainbow Karaoke                                    <b><t:1781467200:t></b> Room: Commons
+<sprite index=0> <b><color=#ffa500><t:1781114400:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781114400:t></b> Room: Commons
+<sprite index=0> <b><color=#faeb36><t:1781118000:D></color></b> Cassy's witching hour                              <b><t:1781118000:t></b> Room: Commons
+<sprite index=0> <b><color=#79c314><t:1781200800:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781200800:t></b> Room: Commons
+<sprite index=0> <b><color=#487de7><t:1781215200:D></color></b> Lilly's Hangout - Neurodivergency Meetup           <b><t:1781215200:t></b> Room: Commons
+<sprite index=0> <b><color=#4b369d><t:1781287200:D></color></b> Voice Training with Prof․ Mirelle                  <b><t:1781287200:t></b> Room: Lecture Hall
+<sprite index=0> <b><color=#70369d><t:1781287200:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781287200:t></b> Room: Commons
+<sprite index=0> <b><color=#e81416><t:1781312400:D></color></b> Voice Training with Prof․ Aurelia Vox              <b><t:1781312400:t></b> Room: Lecture Hall
+<sprite index=0> <b><color=#ffa500><t:1781373600:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781373600:t></b> Room: Commons
+<sprite index=0> <b><color=#faeb36><t:1781384400:D></color></b> Underground Pulse                                  <b><t:1781384400:t></b> World: The Complex
+<sprite index=0> <b><color=#79c314><t:1781460000:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781460000:t></b> Room: Commons
+<sprite index=0> <b><color=#487de7><t:1781467200:D></color></b> Rainbow Karaoke                                    <b><t:1781467200:t></b> Room: Commons
 </size>
 </SysPage>
 <SysPage="SUPPORT">
