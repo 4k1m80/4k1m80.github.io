@@ -2,18 +2,19 @@
 <SysPage="RAINBOW CALENDAR">
 <size=170%>
 
-<sprite index=0> <b><color=#e81416><t:1781042400:D></color></b> Poetry Slam                                        <b><t:1781042400:t></b> Room: Commons
-<sprite index=0> <b><color=#ffa500><t:1781114400:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781114400:t></b> Room: Commons
-<sprite index=0> <b><color=#faeb36><t:1781118000:D></color></b> Cassy's witching hour                              <b><t:1781118000:t></b> Room: Commons
-<sprite index=0> <b><color=#79c314><t:1781200800:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781200800:t></b> Room: Commons
-<sprite index=0> <b><color=#487de7><t:1781215200:D></color></b> Lilly's Hangout - Neurodivergency Meetup           <b><t:1781215200:t></b> Room: Commons
-<sprite index=0> <b><color=#4b369d><t:1781287200:D></color></b> Voice Training with Prof․ Mirelle                  <b><t:1781287200:t></b> Room: Lecture Hall
-<sprite index=0> <b><color=#70369d><t:1781287200:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781287200:t></b> Room: Commons
-<sprite index=0> <b><color=#e81416><t:1781312400:D></color></b> Voice Training with Prof․ Aurelia Vox              <b><t:1781312400:t></b> Room: Lecture Hall
-<sprite index=0> <b><color=#ffa500><t:1781373600:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781373600:t></b> Room: Commons
-<sprite index=0> <b><color=#faeb36><t:1781380800:D></color></b> Underground Pulse                                  <b><t:1781380800:t></b> World: The Complex
-<sprite index=0> <b><color=#79c314><t:1781460000:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781460000:t></b> Room: Commons
-<sprite index=0> <b><color=#487de7><t:1781467200:D></color></b> Rainbow Karaoke                                    <b><t:1781467200:t></b> Room: Commons
+<sprite index=0> <b><color=#83ccf0><t:1781546400:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781546400:t></b> Room: Commons
+<sprite index=0> <b><color=#89afda><t:1781632800:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781632800:t></b> Room: Commons
+<sprite index=0> <b><color=#9092c5><t:1781647200:D></color></b> Poetry Slam                                        <b><t:1781647200:t></b> Room: Commons
+<sprite index=0> <b><color=#a98cbd><t:1781719200:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781719200:t></b> Room: Commons
+<sprite index=0> <b><color=#ce96bf><t:1781722800:D></color></b> Cassy's witching hour                              <b><t:1781722800:t></b> Room: Commons
+<sprite index=0> <b><color=#ec9eba><t:1781805600:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781805600:t></b> Room: Commons
+<sprite index=0> <b><color=#ee9d9e><t:1781820000:D></color></b> Lilly's Hangout - Neurodivergency Meetup           <b><t:1781820000:t></b> Room: Commons
+<sprite index=0> <b><color=#ef9c82><t:1781892000:D></color></b> Voice Training with Prof․ Mirelle                  <b><t:1781892000:t></b> Room: Lecture Hall
+<sprite index=0> <b><color=#f4b987><t:1781892000:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781892000:t></b> Room: Commons
+<sprite index=0> <b><color=#fbdd94><t:1781917200:D></color></b> Voice Training with Prof․ Aurelia Vox              <b><t:1781917200:t></b> Room: Lecture Hall
+<sprite index=0> <b><color=#eceb9c><t:1781978400:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781978400:t></b> Room: Commons
+<sprite index=0> <b><color=#bed99a><t:1782064800:D></color></b> Wholesome Coffee Hour EU                           <b><t:1782064800:t></b> Room: Commons
+<sprite index=0> <b><color=#8fc799><t:1782072000:D></color></b> Rainbow Karaoke                                    <b><t:1782072000:t></b> Room: Commons
 </size>
 </SysPage>
 <SysPage="SUPPORT">
@@ -518,43 +519,24 @@ We invite everyone, regardless of where they are in their gender journey, to use
 </font>
 
 <line-height=20%><size=100%><color=#fad42a>Volunteers</color></size></line-height>
-<font="Courier New SDF">
 <size=90%>
-!°Athena°
-·˖Amy Thunder˖·
-♡ ~FluffalEevee~ ♡
-🌸 Dashie Kattunge 🇸🇪
-Akemi
-AKI🦐
-Akimbo
-Bang
-CassyPanda67
-Greifenstein (Girnveen)
-HelaFaye
-Lilly (The Egirl Shrimp Foxy)
-Madame Silly
-MaeDaGoof
-Mally
-𝓜𝓲𝓻𝓮𝓵𝓵𝓮(Fae/Faer/she/her)
-nassagus
-NMZS
-Princesa_Angel
-Purple_Emma
-Rainbow Library
-roxie162
-soix
-squash_183
-SVNY
-ThickFemboy (DJFANCYSUPPORT)
-
-<pos=55%>
-TonZai
-totesnotacat
-Undead_JesterVR
-Vivienne Vixen
-𝒲𝟥𝒩-𝒟𝟣𝒢𝟢
+!°Athena°                       ·˖Amy Thunder˖·             
+♡ ~FluffalEevee~ ♡              🌸 Dashie Kattunge 🇸🇪     
+Akemi                           AKI🦐                       
+Akimbo                          Bang                        
+CassyPanda67                    Greifenstein (Girnveen)     
+Lilly (The Egirl Shrimp Foxy    Madame Uni                  
+MaeDaGoof                       Mally                       
+𝓜𝓲𝓻𝓮𝓵𝓵𝓮(Fae/Faer/she/    nassagus                    
+NMZS                            Princesa_Angel              
+Purple_Emma                     Rainbow Library             
+roxie162                        scarlet rain                
+soix                            SVNY                        
+ThickFemboy (DJFANCYSUPPORT)    TonZai                      
+totesnotacat                    Undead_JesterVR             
+Vivienne Vixen                  𝒲𝟥𝒩-𝒟𝟣𝒢𝟢             
 Wishes
-</size></font>
+</size>
 
 <line-height=10%><size=90%><color=#fad42a>Contributions</color></size></line-height>
 Niko - for the amazing globe and space shader
