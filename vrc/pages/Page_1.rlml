@@ -9,9 +9,9 @@
 <sprite index=0> <b><color=#ce96bf><t:1781722800:D></color></b> Cassy's witching hour                              <b><t:1781722800:t></b> Room: Commons
 <sprite index=0> <b><color=#ec9eba><t:1781805600:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781805600:t></b> Room: Commons
 <sprite index=0> <b><color=#ee9d9e><t:1781820000:D></color></b> Lilly's Hangout - Neurodivergency Meetup           <b><t:1781820000:t></b> Room: Commons
-<sprite index=0> <b><color=#ef9c82><t:1781892000:D></color></b> Voice Training with Prof․ Mirelle                  <b><t:1781892000:t></b> Room: Lecture Hall
+<sprite index=0> <b><color=#ef9c82><t:1781892000:D></color></b> Voice Training with Professor Mirelle              <b><t:1781892000:t></b> Room: Lecture Hall
 <sprite index=0> <b><color=#f4b987><t:1781892000:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781892000:t></b> Room: Commons
-<sprite index=0> <b><color=#fbdd94><t:1781917200:D></color></b> Voice Training with Prof․ Aurelia Vox              <b><t:1781917200:t></b> Room: Lecture Hall
+<sprite index=0> <b><color=#fbdd94><t:1781917200:D></color></b> Voice Training with Professor Aurelia Vox          <b><t:1781917200:t></b> Room: Lecture Hall
 <sprite index=0> <b><color=#eceb9c><t:1781978400:D></color></b> Wholesome Coffee Hour EU                           <b><t:1781978400:t></b> Room: Commons
 <sprite index=0> <b><color=#bed99a><t:1782064800:D></color></b> Wholesome Coffee Hour EU                           <b><t:1782064800:t></b> Room: Commons
 <sprite index=0> <b><color=#8fc799><t:1782072000:D></color></b> Rainbow Karaoke                                    <b><t:1782072000:t></b> Room: Commons
@@ -577,25 +577,33 @@ We invite everyone, regardless of where they are in their gender journey, to use
 <font="LiberationSans SDF">
 <size=95%><color=#ffffff>The Rainbow Library exists thanks to the care, time, and dedication of its community. This space is a collective effort, built with love and maintained by volunteers across many areas.</color></size>
 </font>
+
 <line-height=20%><size=100%><color=#fad42a>World Team</color></size></line-height>
-<size=90%>Akimbo                          Bang                        
+<size=90%>
+Akimbo                          Bang                        
 MaeDaGoof                       𝑺𝒉𝒆𝒏𝒎𝒂𝒓𝒖𝒌𝒂𝒊      
 Wishes
 </size>
+
 <line-height=20%><size=100%><color=#fad42a>Community Team</color></size></line-height>
-<size=90%>♡ ~FluffalEevee~ ♡              🌸 Dashie Kattunge 🇸🇪     
+<size=90%>
+♡ ~FluffalEevee~ ♡              🌸 Dashie Kattunge 🇸🇪     
 Akemi                           CassyPanda67                
 GooeyPancake                    Lilly (The Egirl Shrimp Foxy
 Mally                           squash_183                  
 TonZai                          Undead_JesterVR             
 </size>
+
 <line-height=20%><size=100%><color=#fad42a>Media Team</color></size></line-height>
-<size=90%>Greifenstein (Girnveen)         Princesa_Angel              
+<size=90%>
+Greifenstein (Girnveen)         Princesa_Angel              
 roxie162                        ThickFemboy (DJFANCYSUPPORT)
 ThunderHook
 </size>
+
 <line-height=20%><size=100%><color=#fad42a>Safety Team</color></size></line-height>
-<size=90%>!°Athena°                       ·˖Amy Thunder˖·             
+<size=90%>
+!°Athena°                       ·˖Amy Thunder˖·             
 🌸 Dashie Kattunge 🇸🇪         🌸❥𝓜𝓸𝓶𝓸🌸               
 CassyPanda67                    Lilly (The Egirl Shrimp Foxy
 Madame Uni                      nassagus                    
@@ -603,9 +611,12 @@ NMZS                            Purple_Emma
 soix                            SVNY                        
 totesnotacat                    Vivienne Vixen              
 </size>
+
 <line-height=20%><size=100%><color=#fad42a>Education Team</color></size></line-height>
-<size=90%>𝓜𝓲𝓻𝓮𝓵𝓵𝓮(Fae/Faer/she/    soix                        
+<size=90%>
+𝓜𝓲𝓻𝓮𝓵𝓵𝓮(Fae/Faer/she/    soix                        
 </size>
+
 <line-height=10%><size=90%><color=#fad42a>Contributions</color></size></line-height>
 Niko - for the amazing globe and space shader
 Sameno Works - VRC Siphon Coffee
@@ -614,6 +625,7 @@ Sameno Works - VRC Siphon Coffee
 <align="center"><size=80%><color=#ffffff>
 This space would not exist
 without the people who shape it.
+
 Thank you all!</color></size></align></font>
 </SysPage>
 <SysPage="INFORMATION">
