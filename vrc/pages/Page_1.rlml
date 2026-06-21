@@ -1,5 +1,6 @@
 <SysBook="Default">
-<SysPage="RAINBOW CALENDAR"><size=300%>
+<SysPage="RAINBOW CALENDAR">
+<size=165%>
 <sprite index=0> <b><color=#83ccf0><t:1782151200:D></color></b> Wholesome Coffee Hour EU                           <b><color=#83ccf0><t:1782151200:t></color></b>   2h   Room: Commons
 <sprite index=0> <b><color=#89afda><t:1782237600:D></color></b> Wholesome Coffee Hour EU                           <b><color=#89afda><t:1782237600:t></color></b>   2h   Room: Commons
 <sprite index=0> <b><color=#9092c5><t:1782252000:D></color></b> Poetry Slam                                        <b><color=#9092c5><t:1782252000:t></color></b>   2h   Room: Commons
