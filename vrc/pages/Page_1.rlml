@@ -1,20 +1,20 @@
 <SysBook="Default">
 <SysPage="RAINBOW CALENDAR">
 <size=150%>
-<sprite index=0> <b><color=#83ccf0><t:1782151200:D></color></b> Wholesome Coffee Hour EU                                <b><color=#83ccf0><t:1782151200:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#89b1dc><t:1782237600:D></color></b> Wholesome Coffee Hour EU                                <b><color=#89b1dc><t:1782237600:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#8f96c8><t:1782252000:D></color></b> Poetry Slam                                             <b><color=#8f96c8><t:1782252000:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#a08abd><t:1782324000:D></color></b> Wholesome Coffee Hour EU                                <b><color=#a08abd><t:1782324000:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#c293be><t:1782327600:D></color></b> Cassy's witching hour                                   <b><color=#c293be><t:1782327600:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#e59cc0><t:1782410400:D></color></b> Wholesome Coffee Hour EU                                <b><color=#e59cc0><t:1782410400:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#ed9dab><t:1782424800:D></color></b> Lilly's Hangout - Neurodivergency Meetup                <b><color=#ed9dab><t:1782424800:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#ee9d91><t:1782496800:D></color></b> Voice Training with Prof․ Mirelle                       <b><color=#ee9d91><t:1782496800:t></color></b>   2h   Room: Lecture Hall
-<sprite index=0> <b><color=#f0a37e><t:1782496800:D></color></b> Wholesome Coffee Hour EU                                <b><color=#f0a37e><t:1782496800:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#f6c48b><t:1782522000:D></color></b> Voice Training with Prof․ Aurelia Vox                   <b><color=#f6c48b><t:1782522000:t></color></b>   2h   Room: Lecture Hall
-<sprite index=0> <b><color=#fde597><t:1782583200:D></color></b> Wholesome Coffee Hour EU                                <b><color=#fde597><t:1782583200:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#e5e89b><t:1782590400:D></color></b> Beyond the Complex - LGBTQ Rave                         <b><color=#e5e89b><t:1782590400:t></color></b>   4h   World: The Complex
-<sprite index=0> <b><color=#bad89a><t:1782669600:D></color></b> Wholesome Coffee Hour EU                                <b><color=#bad89a><t:1782669600:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#8fc799><t:1782676800:D></color></b> Rainbow Karaoke                                         <b><color=#8fc799><t:1782676800:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#83ccf0><t:1782756000:D></color></b> Wholesome Coffee Hour EU                                <b><color=#83ccf0><t:1782756000:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#89b1dc><t:1782842400:D></color></b> Wholesome Coffee Hour EU                                <b><color=#89b1dc><t:1782842400:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#8f96c8><t:1782856800:D></color></b> Poetry Slam                                             <b><color=#8f96c8><t:1782856800:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#a08abd><t:1782867600:D></color></b> Excursion: LGBTQ History                                <b><color=#a08abd><t:1782867600:t></color></b>   2h   World: Furry Museum
+<sprite index=0> <b><color=#c293be><t:1782928800:D></color></b> Wholesome Coffee Hour EU                                <b><color=#c293be><t:1782928800:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#e59cc0><t:1782932400:D></color></b> Cassy's witching hour                                   <b><color=#e59cc0><t:1782932400:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#ed9dab><t:1783015200:D></color></b> Wholesome Coffee Hour EU                                <b><color=#ed9dab><t:1783015200:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#ee9d91><t:1783029600:D></color></b> Lilly's Hangout - Neurodivergency Meetup                <b><color=#ee9d91><t:1783029600:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#f0a37e><t:1783101600:D></color></b> Voice Training with Prof․ Mirelle                       <b><color=#f0a37e><t:1783101600:t></color></b>   2h   Room: Lecture Hall
+<sprite index=0> <b><color=#f6c48b><t:1783101600:D></color></b> Wholesome Coffee Hour EU                                <b><color=#f6c48b><t:1783101600:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#fde597><t:1783126800:D></color></b> Voice Training with Prof․ Aurelia Vox                   <b><color=#fde597><t:1783126800:t></color></b>   2h   Room: Lecture Hall
+<sprite index=0> <b><color=#e5e89b><t:1783188000:D></color></b> Wholesome Coffee Hour EU                                <b><color=#e5e89b><t:1783188000:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#bad89a><t:1783274400:D></color></b> Wholesome Coffee Hour EU                                <b><color=#bad89a><t:1783274400:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#8fc799><t:1783281600:D></color></b> Rainbow Karaoke                                         <b><color=#8fc799><t:1783281600:t></color></b>   2h   Room: Commons
 </size></SysPage>
 <SysPage="SUPPORT">
 <font="LiberationSans SDF">
@@ -557,8 +557,8 @@ Wishes
 ♡ ~FluffalEevee~ ♡    🌸 Dashie Kattunge
 Akemi                 CassyPanda67      
 GooeyPancake          Lilly (The Egirl S
-Mally                 squash_183        
-TonZai                Undead_JesterVR   
+Mally                 TonZai            
+Undead_JesterVR
 </size><line-height=20%><size=100%><color=#fad42a>Media Team</color></size></line-height><size=90%>
 Greifenstein (Girn    Princesa_Angel    
 roxie162              ThickFemboy (DJFAN
