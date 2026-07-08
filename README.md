@@ -1,4 +1,11 @@
+# Rainbow Library Website
 
-Aki's Blog - <b>4k1m80.github.io</b><br>
-This will be the future space of my blog. UwU
-You will find cute code and references for Udon, C++ and C#
+Static GitHub Pages-ready website.
+
+## Deploy
+1. Upload these files to a GitHub repository.
+2. In GitHub, open Settings → Pages.
+3. Choose Deploy from branch, select `main`, and use `/ (root)`.
+4. After deployment, update `sitemap.xml` URLs if using a custom domain or a repository subpath.
+
+The homepage is `index.html`; `.nojekyll` is included for GitHub Pages compatibility.
