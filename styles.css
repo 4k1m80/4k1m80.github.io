@@ -21,3 +21,64 @@
 
 .split.reverse > .photo{order:2}.split.reverse > .panel{order:1}
 @media(max-width:860px){.split.reverse > .photo,.split.reverse > .panel{order:initial}}
+
+
+/* GitHub Pages patch: keep all media in landscape layout and restore flag-only language buttons. */
+.hero-shot,
+.subpage-shot,
+.photo,
+.article-card img {
+  width: 100% !important;
+  aspect-ratio: 16 / 9 !important;
+  height: auto !important;
+  min-height: 0 !important;
+  object-fit: cover !important;
+  object-position: center center !important;
+}
+
+.hero-card,
+.split,
+.article-card {
+  overflow: hidden;
+}
+
+.video-link img {
+  width: 100% !important;
+  height: 100% !important;
+  aspect-ratio: 16 / 9 !important;
+  object-fit: cover !important;
+}
+
+.language-switcher button {
+  width: 42px;
+  height: 42px;
+  padding: 0 !important;
+  display: inline-grid;
+  place-items: center;
+  font-size: 0 !important;
+  line-height: 1;
+}
+
+.language-switcher button::before {
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
+.language-switcher button[data-lang="en"]::before { content: "🇬🇧"; }
+.language-switcher button[data-lang="fr"]::before { content: "🇫🇷"; }
+.language-switcher button[data-lang="de"]::before { content: "🇩🇪"; }
+.language-switcher button[data-lang="ja"]::before { content: "🇯🇵"; }
+
+@media (max-width: 860px) {
+  .language-switcher button {
+    width: 38px;
+    height: 38px;
+  }
+  .hero-shot,
+  .subpage-shot,
+  .photo,
+  .article-card img {
+    aspect-ratio: 16 / 9 !important;
+    height: auto !important;
+  }
+}
