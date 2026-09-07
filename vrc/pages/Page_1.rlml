@@ -1,18 +1,18 @@
 <SysBook="Default">
 <SysPage="RAINBOW CALENDAR">
 <size=150%>
-<sprite index=0> <b><color=#83ccf0><t:1788199200:D></color></b> Wholesome Coffee Hour EU                                <b><color=#83ccf0><t:1788199200:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#8aacd8><t:1788285600:D></color></b> Wholesome Coffee Hour EU                                <b><color=#8aacd8><t:1788285600:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#918cc1><t:1788300000:D></color></b> Poetry Slam                                             <b><color=#918cc1><t:1788300000:t></color></b>   1h   Room: Commons
-<sprite index=0> <b><color=#b38fbd><t:1788372000:D></color></b> Wholesome Coffee Hour EU                                <b><color=#b38fbd><t:1788372000:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#dc9abf><t:1788375600:D></color></b> Cassy's witching hour                                   <b><color=#dc9abf><t:1788375600:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#ed9dad><t:1788458400:D></color></b> Wholesome Coffee Hour EU                                <b><color=#ed9dad><t:1788458400:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#ee9d8f><t:1788544800:D></color></b> Voice Training with Prof․ Aurelia Vox ( EU )            <b><color=#ee9d8f><t:1788544800:t></color></b>   2h   Room: Lecture Hall
-<sprite index=0> <b><color=#f2ac82><t:1788544800:D></color></b> Wholesome Coffee Hour EU                                <b><color=#f2ac82><t:1788544800:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#f9d390><t:1788570000:D></color></b> Voice Training with Prof․ Aurelia Vox ( NA )            <b><color=#f9d390><t:1788570000:t></color></b>   2h   Room: Lecture Hall
-<sprite index=0> <b><color=#f5ee9c><t:1788631200:D></color></b> Wholesome Coffee Hour EU                                <b><color=#f5ee9c><t:1788631200:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#c2db9a><t:1788717600:D></color></b> Wholesome Coffee Hour EU                                <b><color=#c2db9a><t:1788717600:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#8fc799><t:1788724800:D></color></b> Rainbow Karaoke                                         <b><color=#8fc799><t:1788724800:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#83ccf0><t:1788804000:D></color></b> Wholesome Coffee Hour EU                                <b><color=#83ccf0><t:1788804000:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#8aacd8><t:1788890400:D></color></b> Wholesome Coffee Hour EU                                <b><color=#8aacd8><t:1788890400:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#918cc1><t:1788904800:D></color></b> Poetry Slam                                             <b><color=#918cc1><t:1788904800:t></color></b>   1h   Room: Commons
+<sprite index=0> <b><color=#b38fbd><t:1788976800:D></color></b> Wholesome Coffee Hour EU                                <b><color=#b38fbd><t:1788976800:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#dc9abf><t:1788980400:D></color></b> Cassy's witching hour                                   <b><color=#dc9abf><t:1788980400:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#ed9dad><t:1789063200:D></color></b> Wholesome Coffee Hour EU                                <b><color=#ed9dad><t:1789063200:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#ee9d8f><t:1789149600:D></color></b> Voice Training with Prof․ Aurelia Vox ( EU )            <b><color=#ee9d8f><t:1789149600:t></color></b>   2h   Room: Lecture Hall
+<sprite index=0> <b><color=#f2ac82><t:1789149600:D></color></b> Wholesome Coffee Hour EU                                <b><color=#f2ac82><t:1789149600:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#f9d390><t:1789174800:D></color></b> Voice Training with Prof․ Aurelia Vox ( NA )            <b><color=#f9d390><t:1789174800:t></color></b>   2h   Room: Lecture Hall
+<sprite index=0> <b><color=#f5ee9c><t:1789236000:D></color></b> Wholesome Coffee Hour EU                                <b><color=#f5ee9c><t:1789236000:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#c2db9a><t:1789322400:D></color></b> Wholesome Coffee Hour EU                                <b><color=#c2db9a><t:1789322400:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#8fc799><t:1789329600:D></color></b> Rainbow Karaoke                                         <b><color=#8fc799><t:1789329600:t></color></b>   2h   Room: Commons
 </size></SysPage>
 <SysPage="SUPPORT">
 <font="LiberationSans SDF">
@@ -593,8 +593,7 @@ Mally                 TonZai
 Undead_JesterVR
 </size><line-height=20%><size=100%><color=#fad42a>Media Team</color></size></line-height><size=90%>
 Girnveen (Greifens    Princesa_Angel    
-roxie162              ThickFemboy (DJFAN
-ThunderHook
+roxie162              ThunderHook       
 </size><line-height=20%><size=100%><color=#fad42a>Safety Team</color></size></line-height><size=90%>
 !°Athena°             ·˖Amy Thunder˖·   
 🌸 Dashie Kattunge    CassyPanda67      
@@ -603,9 +602,10 @@ NMZS                  Purple_Emma
 soix                  SVNY              
 totesnotacat          Vivienne Vixen    
 </size><line-height=20%><size=100%><color=#fad42a>Education Team</color></size></line-height><size=90%>
-🪶Alagi Waya🪶⚜️⚔️    soix              
+soix
 </size><line-height=20%><size=100%><color=#fad42a>Volunteers</color></size></line-height><size=90%>
-AKI🦐                 Rainbow Library   
+AKI🦐                 Noodle            
+Rainbow Library
 </size>
 
 <line-height=10%><size=90%><color=#fad42a>Contributions</color></size></line-height>
