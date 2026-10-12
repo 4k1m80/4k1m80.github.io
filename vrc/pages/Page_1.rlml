@@ -15,7 +15,7 @@
 <sprite index=0> <b><color=#8fc799><t:1791748800:D></color></b> Rainbow Karaoke                                         <b><color=#8fc799><t:1791748800:t></color></b>   2h   Room: Commons
 </size></SysPage>
 <SysPage="SUPPORT">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=380%><color=#fad42a>Here for You, Everywhere</color></size></align>
 
 <size=320%><color=#ffffff>Our Support page connects you with lifeline services that specialize in supporting trans individuals worldwide, offering assistance, guidance, and a listening ear when you need it most.</color></size>
@@ -59,7 +59,7 @@ These resources are listed by region to ensure you have the most relevant, acces
 </font>
 </SysPage>
 <SysPage="CONTACT">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=380%><color=#fad42a>Get in Touch</color></size></align>
 
 <size=320%><color=#ffffff>We’re here to listen, support, and connect. Whether you have a question, need help, or want to get involved, here’s how you can reach out to us.</color></size>
@@ -90,7 +90,7 @@ We welcome all inquiries and look forward to hearing from you. No matter how big
 </SysPage>
 
 <SysPage="COMMUNITY NOTES">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center">
 <size=120%>
 <size=120%>HAPPY SPOOKY MONTH</size> <size=120%><sprite index=0></size>
@@ -109,7 +109,7 @@ HAPPY GAY-O-WEEN FROM THE RAINBOW LIBRARY!
 <align="center">Coming Soon</align>
 </SysPage>
 <SysPage="CODE OF CONDUCT">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=180%><color=#fad42a>Respect. Safety. Solidarity.</color></size></align>
 
 <size=120%><color=#ffffff>To keep the Rainbow Library a safe and welcoming space for everyone, we ask all visitors to follow our community guidelines with care and respect.</color></size>
@@ -131,7 +131,7 @@ Moderators are present to help, not to police. If you feel unsafe or notice some
 </font>
 </SysPage>
 <SysPage="SIGNING ROOM">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=180%><color=#fad42a>Welcome to the Signing Room</color></size></align>
 
 <size=120%><color=#ffffff>The Signing Room is a quiet, peaceful space where you can only communicate through sign language, written messages, or other non-verbal means. 
@@ -159,7 +159,7 @@ It is a perfect place to reflect, have a thoughtful conversation through gesture
 </SysPage>
 
 <SysPage="DISCUSSION ROOM">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=280%><color=#fad42a>Discussion Room</color></size></align>
 
 <size=180%><color=#ffffff>The discussion room is a space where people can engage in respective and constructive conversations. Here, we engage in discussions on various topics, through open dialogue and critical thinking.</color></size>
@@ -177,7 +177,7 @@ Join us for engaging discussions and learn from each other while honing your ski
 </font>
 </SysPage>
 <SysPage="LECTURE HALL">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=220%><color=#fad42a>Lecture Hall</color></size></align>
 
 <size=180%><color=#ffffff>The Lecture Hall is where we gather to learn, discuss, and share knowledge. From workshops to guest speakers, this space is dedicated to educational events and community discussions.</color></size>
@@ -195,7 +195,7 @@ Whether you're here to listen, ask questions, or contribute, we invite you to be
 </font>
 </SysPage>
 <SysPage="PEER SUPPORT">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=180%><color=#fad42a>You're Not Alone</color></size></align>
 
 <size=120%><color=#ffffff>Our Peer Support space exists to hold one another with care, compassion, and community understanding. Whether you're going through a hard time or simply need someone to talk to, there’s a place for you here.</color></size>
@@ -217,7 +217,7 @@ While we are not a crisis service, we care deeply about your well-being—and ca
 <align="center">Coming Soon</align>
 </SysPage>
 <SysPage="OUR MISSION">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=180%><color=#fad42a>Empower, Educate, Embrace</color></size></align>
 
 
@@ -245,7 +245,7 @@ We create inclusive, supportive spaces that prioritize belonging, mental wellnes
 </font>
 </SysPage>
 <SysPage="LORE">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=260%><color=#fad42a>Our Story</color></size></align>
 
 <size=200%><color=#ffffff>The Rainbow Library began as a dream: a space where knowledge, creativity, and community intersect. What started as a simple idea has grown into a thriving hub, full of stories, learning, and connection.</color></size>
@@ -296,7 +296,7 @@ It’s more than a space—it’s a movement. And the best part? You’re part o
 <align="center">Upcoming community events and activities</align>
 </SysPage>
 <SysPage="RESOURCES">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=180%><color=#fad42a>Support, Knowledge, Visibility</color></size></align>
 
 <size=120%><color=#ffffff>The Rainbow Library is committed to uplifting transgender voices through access to affirming resources, shared experiences, and safe, informed support.</color></size>
@@ -324,7 +324,7 @@ We highlight trans creators, celebrate diverse journeys, and foster connection t
 </font>
 </SysPage>
 <SysPage="ART GALLERY">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=180%><color=#fad42a>Creativity, Expression, Community</color></size></align>
 
 <size=120%><color=#ffffff>The Rainbow Library Art Gallery is a space to celebrate creativity and showcase the diverse talents of our vibrant community.</color></size>
@@ -352,7 +352,7 @@ Want to be featured? Submit your work through our Discord and be part of our evo
 </font>
 </SysPage>
 <SysPage="BOOK CLUB">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=180%><color=#fad42a>Read, Discuss, Connect</color></size></align>
 
 <size=120%><color=#ffffff>The Rainbow Library Book Club is a space where we come together to explore diverse narratives, dive into thought-provoking discussions, and deepen our understanding of the world through literature.</color></size>
@@ -375,7 +375,7 @@ Reading isn’t just about the books—it’s about the conversations that grow 
 <align="center">A dive into important milestones in LGBTQ+ history</align>
 </SysPage>
 <SysPage="PRIDE STORIES">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=180%><color=#fad42a>Share Your Journey</color></size></align>
 
 <size=120%><color=#ffffff>Pride Stories is a space for our community to share their personal experiences, struggles, victories, and everything in between.</color></size>
@@ -393,7 +393,7 @@ Through Pride Stories, we honor the diverse paths each person walks and celebrat
 </font>
 </SysPage>
 <SysPage="SUPPORT NETWORK">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=180%><color=#fad42a>You're Connected to Care</color></size></align>
 
 <size=120%><color=#ffffff>The Support Network exists to help you find the people, resources, and organizations that can walk alongside you—no matter what you’re going through.</color></size>
@@ -423,7 +423,7 @@ You’re not just welcome here—you’re supported here.
 <align="center">Explore different gender identities and expressions.</align>
 </SysPage>
 <SysPage="IDENTITY AND GENDER">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=380%><color=#fad42a>Understanding Identity and Gender</color></size></align>
 
 <size=240%><color=#ffffff>At the Rainbow Library, we celebrate the rich diversity of identities and gender expressions that make our community whole. This space is designed to honor the fluidity, complexity, and beauty of how each individual defines and experiences their identity.</color></size>
@@ -523,7 +523,7 @@ We invite everyone, regardless of where they are in their gender journey, to use
 </SysPage>
 
 
-<SysPage="CREDITS"><font="Helvetica Neue SDF">
+<SysPage="CREDITS"><font="LiberationSans SDF">
 <size=95%><color=#ffffff>The Rainbow Library exists thanks to the care, time, and dedication of its community. This space is a collective effort, built with love and maintained by volunteers across many areas.</color></size>
 </font>
 
@@ -555,14 +555,14 @@ AKI🦐                 Rainbow Library
 Niko - for the amazing globe and space shader
 Sameno Works - VRC Siphon Coffee
 
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=80%><color=#ffffff>
 This space would not exist
 without the people who shape it.
 
 Thank you all!</color></size></align></font></SysPage>
 <SysPage="INFORMATION">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=200%><color=#fad42a>Welcome to the Rainbow Library</color></size></align>
 
 <size=120%><color=#ffffff>The Rainbow Library is a community driven space focused on inclusivity, creativity and connection within VRChat and beyond.</color></size>
@@ -595,7 +595,7 @@ Thank you all!</color></size></align></font></SysPage>
 </font>
 </SysPage>
 <SysPage="RAINBOW LIBRARY">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><b><color=#fad42a><size=200%>Welcome!</size></color></b></align>
 
 
@@ -624,7 +624,7 @@ We are here for you!
 </font>
 </SysPage>
 <SysPage="RULES">
-<font="Helvetica Neue SDF"><color=#fad42a><size=190%>1. Respect Everyone</size></color>
+<font="LiberationSans SDF"><color=#fad42a><size=190%>1. Respect Everyone</size></color>
 Be kind; no harassment, discrimination, or hate speech
 
 <color=#fad42a><size=190%>2. Keep It PG-13</size></color>
@@ -693,7 +693,7 @@ Report rule violations to moderators
 </SysPage>
 
 <SysPage="POETRY">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center">
 <size=100%>
 A Poem for Athena ✨️💫
@@ -705,7 +705,7 @@ A Poem for Athena ✨️💫
 </SysPage>
 </SysBook>
 <SysPage="TRANS RIGHTS">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=240%><color=#fad42a>Trans Rights Are Human Rights</color></size></align>
 
 <size=190%><color=#ffffff>Trans people deserve safety, respect, access, and autonomy. At the Rainbow Library, we affirm trans rights as essential and non-negotiable.</color>
@@ -718,7 +718,7 @@ Trans rights include the ability to live openly, access affirming healthcare, ex
 </font>
 </SysPage>
 <SysPage="HUMAN RIGHTS">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=240%><color=#fad42a>Equality, Safety, Freedom</color></size></align>
 
 <size=190%><color=#ffffff>Human rights belong to everyone—regardless of gender, sexuality, race, ability, or origin. These rights are not earned; they are inherent.</color>
@@ -730,7 +730,7 @@ At the Rainbow Library, everything we do is rooted in human rights and in the be
 </font>
 </SysPage>
 <SysPage="TRANS POLITICS">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=240%><color=#fad42a>Our Lives Are Political</color></size></align>
 
 <size=190%><color=#ffffff>Trans existence is not a debate—it’s a reality. The fight for trans liberation is deeply political, rooted in resistance and resilience.</color></size>
@@ -745,7 +745,7 @@ Trans politics touches nearly every part of life, including healthcare, legal re
 </font>
 </SysPage>
 <SysPage="DIGNITY">
-<font="Helvetica Neue SDF">
+<font="LiberationSans SDF">
 <align="center"><size=240%><color=#fad42a>You Deserve Dignity</color></size></align>
 
 <size=190%><color=#ffffff>Dignity means being treated with respect, compassion, and humanity. For trans and queer people, this is not always guaranteed—but here, it is fundamental.</color></size>
