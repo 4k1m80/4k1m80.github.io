@@ -1,20 +1,20 @@
 <SysBook="Default">
 <SysPage="RAINBOW CALENDAR">
 <size=150%>
-<sprite index=0> <b><color=#83ccf0><t:1792432800:D></color></b> Wholesome Coffee Hour EU                                <b><color=#83ccf0><t:1792432800:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#89b1dc><t:1792519200:D></color></b> Wholesome Coffee Hour EU                                <b><color=#89b1dc><t:1792519200:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#8f96c8><t:1792533600:D></color></b> Poetry Slam                                             <b><color=#8f96c8><t:1792533600:t></color></b>   1h   Room: Commons
-<sprite index=0> <b><color=#a08abd><t:1792605600:D></color></b> Wholesome Coffee Hour EU                                <b><color=#a08abd><t:1792605600:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#c293be><t:1792612800:D></color></b> Cassy's witching hour                                   <b><color=#c293be><t:1792612800:t></color></b>   0.3h Room: Commons
-<sprite index=0> <b><color=#e59cc0><t:1792692000:D></color></b> Wholesome Coffee Hour EU                                <b><color=#e59cc0><t:1792692000:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#ed9dab><t:1792695600:D></color></b> Art Class with Prof. Polygone                           <b><color=#ed9dab><t:1792695600:t></color></b>   1h   Room: Art Room
-<sprite index=0> <b><color=#ee9d91><t:1792778400:D></color></b> Voice Training with Prof․ Aurelia Vox ( EU )            <b><color=#ee9d91><t:1792778400:t></color></b>   2h   Room: Lecture Hall
-<sprite index=0> <b><color=#f0a37e><t:1792778400:D></color></b> Wholesome Coffee Hour EU                                <b><color=#f0a37e><t:1792778400:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#f6c48b><t:1792803600:D></color></b> Voice Training with Prof․ Aurelia Vox ( NA )            <b><color=#f6c48b><t:1792803600:t></color></b>   2h   Room: Lecture Hall
-<sprite index=0> <b><color=#fde597><t:1792864800:D></color></b> Wholesome Coffee Hour EU                                <b><color=#fde597><t:1792864800:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#e5e89b><t:1792872000:D></color></b> Voice Dysphoria Lecture                                 <b><color=#e5e89b><t:1792872000:t></color></b>   1h   Room: Lecture Hall
-<sprite index=0> <b><color=#bad89a><t:1792951200:D></color></b> Wholesome Coffee Hour EU                                <b><color=#bad89a><t:1792951200:t></color></b>   2h   Room: Commons
-<sprite index=0> <b><color=#8fc799><t:1792958400:D></color></b> Rainbow Karaoke                                         <b><color=#8fc799><t:1792958400:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#83ccf0><t:1793041200:D></color></b> Wholesome Coffee Hour EU                                <b><color=#83ccf0><t:1793041200:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#89b1dc><t:1793127600:D></color></b> Wholesome Coffee Hour EU                                <b><color=#89b1dc><t:1793127600:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#8f96c8><t:1793138400:D></color></b> Poetry Slam                                             <b><color=#8f96c8><t:1793138400:t></color></b>   1h   Room: Commons
+<sprite index=0> <b><color=#a08abd><t:1793214000:D></color></b> Wholesome Coffee Hour EU                                <b><color=#a08abd><t:1793214000:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#c293be><t:1793217600:D></color></b> Cassy's witching hour                                   <b><color=#c293be><t:1793217600:t></color></b>   0.3h Room: Commons
+<sprite index=0> <b><color=#e59cc0><t:1793300400:D></color></b> Wholesome Coffee Hour EU                                <b><color=#e59cc0><t:1793300400:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#ed9dab><t:1793300400:D></color></b> Art Class with Prof. Polygone                           <b><color=#ed9dab><t:1793300400:t></color></b>   1h   Room: Art Room
+<sprite index=0> <b><color=#ee9d91><t:1793383200:D></color></b> Voice Training with Prof․ Aurelia Vox ( EU )            <b><color=#ee9d91><t:1793383200:t></color></b>   2h   Room: Lecture Hall
+<sprite index=0> <b><color=#f0a37e><t:1793386800:D></color></b> Wholesome Coffee Hour EU                                <b><color=#f0a37e><t:1793386800:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#f6c48b><t:1793408400:D></color></b> Voice Training with Prof․ Aurelia Vox ( NA )            <b><color=#f6c48b><t:1793408400:t></color></b>   2h   Room: Lecture Hall
+<sprite index=0> <b><color=#fde597><t:1793473200:D></color></b> Wholesome Coffee Hour EU                                <b><color=#fde597><t:1793473200:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#e5e89b><t:1793476800:D></color></b> Voice Dysphoria Lecture                                 <b><color=#e5e89b><t:1793476800:t></color></b>   1h   Room: Lecture Hall
+<sprite index=0> <b><color=#bad89a><t:1793559600:D></color></b> Wholesome Coffee Hour EU                                <b><color=#bad89a><t:1793559600:t></color></b>   2h   Room: Commons
+<sprite index=0> <b><color=#8fc799><t:1793563200:D></color></b> Rainbow Karaoke                                         <b><color=#8fc799><t:1793563200:t></color></b>   2h   Room: Commons
 </size></SysPage>
 <SysPage="SUPPORT">
 <font="default">
@@ -531,17 +531,17 @@ Wishes
 </size><line-height=20%><size=100%><color=#fad42a>Community Team</color></size></line-height><size=90%>
 ♡ ~FluffalEevee~ ♡    🌸 Dashie Kattunge
 Akemi                 CassyPanda67      
-Diiino                GooeyPancake      
-Mally                 Undead_JesterVR   
+GooeyPancake          Mally             
+Undead_JesterVR
 </size><line-height=20%><size=100%><color=#fad42a>Media Team</color></size></line-height><size=90%>
 Angel                 Girnveen (Greifens
 roxie162              ThunderHook       
 </size><line-height=20%><size=100%><color=#fad42a>Safety Team</color></size></line-height><size=90%>
-!°Athena°             🌸 Dashie Kattunge
-FeralFloof            Liller            
-NMZS                  Purple_Emma       
-sixsta                SVNY              
-Vivienne Vixen
+!°Athena°             ·˖Amy Thunder˖·   
+🌸 Dashie Kattunge    FeralFloof        
+Liller                NMZS              
+Purple_Emma           sixsta            
+SVNY                  Vivienne Vixen    
 </size><line-height=20%><size=100%><color=#fad42a>Education Team</color></size></line-height><size=90%>
 sixsta
 </size><line-height=20%><size=100%><color=#fad42a>Volunteers</color></size></line-height><size=90%>
